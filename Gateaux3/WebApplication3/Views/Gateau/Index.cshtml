@@ -1,0 +1,22 @@
+﻿@using WebApplication3.Models;
+@model List<Gateau>
+@{
+    Layout = "_Layout";
+}
+<br/>
+<br/>
+<h1 class="ms-5 mt-5">Quelques excellentes recettes de gâteaux que vous pourriez aimer!</h1>
+ <div class="container-fluid scrolling-wrapper row flex-row flex-nowrap py-4 mt-5 px-5 color-1">
+    @foreach (var gateau in Model)
+    {
+        <div class="card ms-3 py-2 color-3" style="width: 18rem; height: fit-content">
+            <img src="@gateau.urlImage" class="card-img-top" alt="..." style="max-height: 260px">
+            <div class="card-body">
+                <h5 class="card-title">@gateau.Nom</h5>
+                <p class="card-text">@gateau.calories</p>
+                <a href="#" class="btn btn-primary">Ingrédients</a>
+            </div>
+        </div>
+    }
+   
+</div>
