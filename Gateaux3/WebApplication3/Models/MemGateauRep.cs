@@ -5,7 +5,7 @@
         public IEnumerable<Gateau> collectionGateau => new List<Gateau>()
         {
             new Gateau {Id = 0, Nom = "Volcan et dinausores", portions = 4, Ingredients = "farine, sucre, lait, oeufs, extrait de vanille", calories = 1000, urlImage = "/dino.jpg"},
-            new Gateau {Id = 1, Nom = "chat", portions = 5, Ingredients = "farine, sucre, pépites de chocolat, lait, oeufs", calories = 2000, urlImage = "/chat.jpg"},
+            new Gateau {Id = 1, Nom = "Chat", portions = 5, Ingredients = "farine, sucre, pépites de chocolat, lait, oeufs", calories = 2000, urlImage = "/chat.jpg"},
             new Gateau {Id = 2, Nom = "Ciel", portions = 1, Ingredients = "farine, sucre, pépites de chocolat, lait, oeufs", calories = 36, urlImage = "/ciel.jpg"},
             new Gateau {Id = 3, Nom = "Rouge", portions = 10, Ingredients = "farine, sucre, pépites de chocolat, lait, oeufs", calories = 2900, urlImage = "/rouge.jpg"},
             new Gateau {Id = 4, Nom = "Barbie", portions = 7, Ingredients = "farine, sucre, pépites de chocolat, lait, oeufs", calories = 680, urlImage = "/barbie.jpg"},

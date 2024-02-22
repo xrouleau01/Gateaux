@@ -10,11 +10,11 @@
     @foreach (var gateau in Model)
     {
         <div class="card ms-3 py-2 color-3" style="width: 18rem; height: fit-content">
-            <img src="@gateau.urlImage" class="card-img-top" alt="..." style="max-height: 260px">
+            <img src="@gateau.urlImage" class="rounded card-img-top" alt="..." style="max-height: 260px">
             <div class="card-body">
                 <h5 class="card-title">@gateau.Nom</h5>
-                <p class="card-text">@gateau.calories</p>
-                <a href="#" class="btn btn-primary">Ingrédients</a>
+                <p class="card-text">Calories : @gateau.calories</p>
+                <a href="/Gateau/Cherche/@gateau.Id" class="btn btn-primary">Ingrédients</a>
             </div>
         </div>
     }

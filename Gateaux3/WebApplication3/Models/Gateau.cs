@@ -7,7 +7,6 @@
         public int portions { get; set; }
         public string Ingredients { get; set; }
         public int calories { get; set; }
-        
         public string urlImage { get; set; }
     }
 }

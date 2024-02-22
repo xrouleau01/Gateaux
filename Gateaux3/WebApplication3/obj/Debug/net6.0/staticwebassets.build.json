@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "c2+ZQvqLB5RnevW86jsnejL/vFN17i58wFDwqRBhnRk=",
+  "Hash": "EOKfqiBjKUtaZTPWNdcwFsXyvZ0PFob5Dl57dWnEQlk=",
   "Source": "WebApplication3",
   "BasePath": "_content/WebApplication3",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebApplication3\\wwwroot",
       "Source": "WebApplication3",
-      "ContentRoot": "C:\\Users\\info1\\source\\repos\\Gateaux3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\info1\\Source\\Repos\\xrouleau01\\Gateaux\\Gateaux3\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\info1\\source\\repos\\Gateaux3\\WebApplication3\\wwwroot\\barbie.jpg",
+      "Identity": "C:\\Users\\info1\\Source\\Repos\\xrouleau01\\Gateaux\\Gateaux3\\WebApplication3\\wwwroot\\barbie.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\info1\\source\\repos\\Gateaux3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\info1\\Source\\Repos\\xrouleau01\\Gateaux\\Gateaux3\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "barbie.jpg",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\barbie.jpg"
     },
     {
-      "Identity": "C:\\Users\\info1\\source\\repos\\Gateaux3\\WebApplication3\\wwwroot\\chat.jpg",
+      "Identity": "C:\\Users\\info1\\Source\\Repos\\xrouleau01\\Gateaux\\Gateaux3\\WebApplication3\\wwwroot\\chat.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\info1\\source\\repos\\Gateaux3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\info1\\Source\\Repos\\xrouleau01\\Gateaux\\Gateaux3\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "chat.jpg",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\chat.jpg"
     },
     {
-      "Identity": "C:\\Users\\info1\\source\\repos\\Gateaux3\\WebApplication3\\wwwroot\\choco.jpg",
+      "Identity": "C:\\Users\\info1\\Source\\Repos\\xrouleau01\\Gateaux\\Gateaux3\\WebApplication3\\wwwroot\\choco.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\info1\\source\\repos\\Gateaux3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\info1\\Source\\Repos\\xrouleau01\\Gateaux\\Gateaux3\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "choco.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\choco.jpg"
     },
     {
-      "Identity": "C:\\Users\\info1\\source\\repos\\Gateaux3\\WebApplication3\\wwwroot\\ciel.jpg",
+      "Identity": "C:\\Users\\info1\\Source\\Repos\\xrouleau01\\Gateaux\\Gateaux3\\WebApplication3\\wwwroot\\ciel.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\info1\\source\\repos\\Gateaux3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\info1\\Source\\Repos\\xrouleau01\\Gateaux\\Gateaux3\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "ciel.jpg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\ciel.jpg"
     },
     {
-      "Identity": "C:\\Users\\info1\\source\\repos\\Gateaux3\\WebApplication3\\wwwroot\\dino.jpg",
+      "Identity": "C:\\Users\\info1\\Source\\Repos\\xrouleau01\\Gateaux\\Gateaux3\\WebApplication3\\wwwroot\\dino.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\info1\\source\\repos\\Gateaux3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\info1\\Source\\Repos\\xrouleau01\\Gateaux\\Gateaux3\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "dino.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\dino.jpg"
     },
     {
-      "Identity": "C:\\Users\\info1\\source\\repos\\Gateaux3\\WebApplication3\\wwwroot\\gazon.jpg",
+      "Identity": "C:\\Users\\info1\\Source\\Repos\\xrouleau01\\Gateaux\\Gateaux3\\WebApplication3\\wwwroot\\gazon.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\info1\\source\\repos\\Gateaux3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\info1\\Source\\Repos\\xrouleau01\\Gateaux\\Gateaux3\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "gazon.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\gazon.jpg"
     },
     {
-      "Identity": "C:\\Users\\info1\\source\\repos\\Gateaux3\\WebApplication3\\wwwroot\\mathieu.jpg",
+      "Identity": "C:\\Users\\info1\\Source\\Repos\\xrouleau01\\Gateaux\\Gateaux3\\WebApplication3\\wwwroot\\mathieu.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\info1\\source\\repos\\Gateaux3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\info1\\Source\\Repos\\xrouleau01\\Gateaux\\Gateaux3\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "mathieu.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\mathieu.jpg"
     },
     {
-      "Identity": "C:\\Users\\info1\\source\\repos\\Gateaux3\\WebApplication3\\wwwroot\\rouge.jpg",
+      "Identity": "C:\\Users\\info1\\Source\\Repos\\xrouleau01\\Gateaux\\Gateaux3\\WebApplication3\\wwwroot\\rouge.jpg",
       "SourceId": "WebApplication3",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\info1\\source\\repos\\Gateaux3\\WebApplication3\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\info1\\Source\\Repos\\xrouleau01\\Gateaux\\Gateaux3\\WebApplication3\\wwwroot\\",
       "BasePath": "_content/WebApplication3",
       "RelativePath": "rouge.jpg",
       "AssetKind": "All",
